@@ -9,6 +9,7 @@
     padding: 0;
     margin-right: auto;
     margin-left: auto;
+    padding-top: 60px;
 }
 
 .gallery-item {
@@ -32,3 +33,5 @@
     object-fit: cover;
     overflow: hidden;
 }
+.basicLightbox__placeholder {
+    background-color: rgba(46, 47, 66, 0.8);
